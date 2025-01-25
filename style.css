@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: ;
+    background-color: rgb(58, 56, 56);
+    color:white;
+
+    
+}
+header{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+
+}
+header h2{
+     border-radius: 10px ;
+     background-color: white;
+     color: black;
+     padding: 5px 20px;
+     
+}
+header p{
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+    
+    
+   
+    
+
+
+.container h1{
+    text-align: center;
+    border-bottom: 5px solid;
+    padding-bottom: 100px;
+    font-size: 70px;
+    font-weight: 700;
+    
+     
+}
+.container .fa-question{
+    background-color: white;
+    padding: 20px 30px;
+    color: black;
+    font-size: 30px;
+    position: relative;
+    
+    left: 600px;;
+    right:0;
+    bottom:40px;
+    
+   
+}
+.section-container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin:100px;
+    
+}
+   
+.section-btn .btn{
+    padding: 30px 60px;
+    display: block;
+    border: 2px solid white;
+
+    
+}
+.section-btn .btn-check{
+    padding: 8px 20px;
+     margin: 15px  ;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    
+    
+}
+.section-paragraph{
+    font-size: 25px;
+    font-weight: 700;
+    
+}
+.section-paragraph p{
+    padding:5px;
+
+    
+}
